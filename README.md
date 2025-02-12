@@ -1,2 +1,3 @@
+![Screenshot (6)](https://github.com/user-attachments/assets/11520285-ab88-4c36-a7eb-189ffb3f0805)
 **Impact lives – Responsive Bootstrap Template**
 Impact is a free template for different service-providing companies such as insurance, creative agency, corporate, etc. This business and corporate template has a modern outlook with a fascinating color palette that provides comforting browsing to the user. The mobile-friendly design is built using Bootstrap 5, HTML5, and CSS3 and has a captivating layout with intuitive design. It includes several modern UIs that feature the work and responsibilities of the company perfectly. 
